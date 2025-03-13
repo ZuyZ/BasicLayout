@@ -1,0 +1,10 @@
+DEFINE NewTest NewTest
+ASSIGN NewTest libMode shared
+DEFINE Generic_250nm_Devices ..\TannerTools_v2019.2\Process\Generic_250nm\Generic_250nm_Devices
+ASSIGN Generic_250nm_Devices libMode shared
+DEFINE Generic_250nm_LogicGates ..\TannerTools_v2019.2\Process\Generic_250nm\Generic_250nm_LogicGates
+ASSIGN Generic_250nm_LogicGates libMode shared
+DEFINE Generic_250nm_AnalogLib ..\TannerTools_v2019.2\Process\Generic_250nm\Generic_250nm_AnalogLib
+ASSIGN Generic_250nm_AnalogLib libMode shared
+DEFINE Generic_250nm_IO_Pads ..\TannerTools_v2019.2\Process\Generic_250nm\Generic_250nm_IO_Pads
+ASSIGN Generic_250nm_IO_Pads libMode shared
